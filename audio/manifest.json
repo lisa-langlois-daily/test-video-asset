@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "baseUrl": "https://raw.githubusercontent.com/lisa-langlois-daily/test-video-asset/main/audio/",
+  "samples": [
+    {
+      "id": "en-001",
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "file": "en/qa-en-001.aac",
+      "title": "English — The Black Cat (excerpt)",
+      "source": "LibriVox / Internet Archive",
+      "license": "Public Domain",
+      "durationSec": 35,
+      "originalUrl": "https://archive.org/details/stories_001_librivox",
+      "reader": "Phil Chenevert"
+    },
+    {
+      "id": "fr-001",
+      "iso639_1": "fr",
+      "iso639_2": "fre",
+      "file": "fr/qa-fr-001.aac",
+      "title": "French — La cafetière (excerpt)",
+      "source": "LibriVox / Internet Archive",
+      "license": "Public Domain",
+      "durationSec": 38,
+      "originalUrl": "https://archive.org/details/contes_humoristiques_1505_librivox",
+      "reader": "Zeckou"
+    },
+    {
+      "id": "es-001",
+      "iso639_1": "es",
+      "iso639_2": "spa",
+      "file": "es/qa-es-001.aac",
+      "title": "Spanish — Cuentos ingenuos (excerpt)",
+      "source": "LibriVox / Internet Archive",
+      "license": "Public Domain",
+      "durationSec": 39,
+      "originalUrl": "https://archive.org/details/cuentos_ingenuos_2108_librivox",
+      "reader": "Epachuko"
+    }
+  ]
+}
